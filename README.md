@@ -7,4 +7,4 @@ I’m interested in systems biology, bioinfromatics and python development.
 - 👯 I’m looking to collaborate on a development project in life science. 
 - 📫 How to reach me: pollypavlova98@gmail.com, telegram: @polyant
 
-You can find my CV in this repository. 
+My current [CV](CV.pdf).
